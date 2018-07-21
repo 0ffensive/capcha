@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width'>
+  <title>JS Bin</title>
+  <link rel='stylesheet' type='text/css' href='capcha.css'>
+</head>
+<body>
+  <canvas width='350px' height='200px'>Please, choose another brouther</canvas>
+  <form>
+    <p class='answer'>Wasza odpowiedź:</p>
+    <input></input>
+  </form>
+  <p class='button'>Potwierdź</p>
+  <p class='result'></p>
+  <script src='capcha.css'></script>
+</body>
+</html>
