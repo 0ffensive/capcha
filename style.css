@@ -4,15 +4,16 @@
 }
 
 body {
-  
+  background-color: #ffffff;
 }
 
-.answer, input {
+.answer,
+input {
   display: inline;
 }
 
 form {
-  border: 1px solid rgb(190,190,190);
+  border: 1px solid rgb(190, 190, 190);
   width: 350px;
   padding: 7px 15px 7px 4px;
 }
@@ -27,11 +28,12 @@ form {
   display: inline-block;
   padding: 1px 5px;
   margin-top: 5px;
-  border: 1px solid rgb(190,190,190);
+  border: 1px solid rgb(190, 190, 190);
   box-shadow: inset 0px -10px 10px rgb(190, 190, 190),
-              inset 0px 5px 5px rgb(230,230,230);
+    inset 0px 5px 5px rgb(230, 230, 230);
 }
 
-canvas, input {
-  border: 1px solid rgb(190,190,190);
+canvas,
+input {
+  border: 1px solid rgb(190, 190, 190);
 }
